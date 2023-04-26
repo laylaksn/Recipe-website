@@ -1,0 +1,15 @@
+/* Page 1 stylings */
+.h1page1 {
+    color: purple;
+    font-style: italic;
+    text-align: left;
+    text-indent: 20px;
+  } 
+
+.h2page1 {
+    color: green; 
+    font-style: italic;
+    text-align: left;
+    text-indent: 20px;
+}
+/* End Page 1 stylings */
