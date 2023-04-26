@@ -1,0 +1,31 @@
+/* start of where we change the colours of the links to the different pages  */
+.list {
+  display: flex;
+  justify-content: right;
+  width: 100%;
+  list-style-position: inside;
+  text-indent: -1em;
+  padding-left: 1em;
+}
+
+.list ul li {
+  list-style: none;
+  margin: 42px;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color:rgb(16, 16, 120));
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 14px 25px;
+  background-color: transparent;
+  border: 2px solid rgb(16, 16, 120);
+}
+
+a:hover {
+  background-color: rgb(16, 16, 120);
+  color: whitesmoke;
+}
+/* end of where we change the colours of the links to different pages */
